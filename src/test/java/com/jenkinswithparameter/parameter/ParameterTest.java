@@ -5,7 +5,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.edge.EdgeDriver;
 import org.testng.annotations.Test;
 
-public class Parameter {
+public class ParameterTest {
 		@Test
 		public void parameterTest()
 		{
